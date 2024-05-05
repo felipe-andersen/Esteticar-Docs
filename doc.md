@@ -12,3 +12,5 @@ Assim que um veículo chega, ele é direcionado para vaga no pátio, se houver.
 Em caso de não disponibilidade de vaga é oferecida a possibilidade de agendamento.
 Uma vez que o veiculo está no pátio, dá-se início do monitoramento do progresso do serviço.
 Ao finalizar, a vaga no estacionamento é liberada.
+
+### Cadastro de produtos e serviços
